@@ -5,7 +5,8 @@ This repository features the final project for CMPINF0010
 
 The project was completed in Jupyter Notebook and coded with Python utilizing Pandas, NumPy, and matplotlib
 
-## ABSTRACT
+## Community Safety Analytics: Identifying High-Risk Areas for Hit & Run Crimes
+
 This project uses police arrest data and vehicle speed hump data from the City of Pittsburgh to determine target neighborhoods in Allegheney County for criminal drivers.
 
 Utilizing the Pittsburgh Speed Hump Data, it was found that the neighborhoods Overbrook, Stanton Heights, and Central Oakland have the lowest speedhump count (of 1), making it the best neighborhood for criminals/ getaway drivers and implying that it is the worst neighborhoods for the general public in that respect. We also found that Squirrel Hill was the best neighborhood for avoiding getaway drivers as it had 18 speed humps. Police Arrest Data was used to gauge the chances of catching criminal getaway drivers. The data was analyzed to indicate the level of police presence/ law enforcement activity through the amount of arrests, change in number of arrests, and the average distances of the arrests. Using these metrics, we found Squirrel Hill to be the best neighborhood in Pittsburgh to avoid criminal getaway drivers.
