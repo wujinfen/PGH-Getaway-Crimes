@@ -1,6 +1,4 @@
-# Pitt-CMPINF0010-BigIdeas
-University of Pittsburgh Big Ideas In Computing and Information
-
+# Pittsburgh Getaway Crimes
 This project uses police arrest data and vehicle speed hump data from the Western Pennsylvania Regional Data Center to determine target neighborhoods in Allegheney County for getaway crimes. 
 
 The project was completed in Jupyter Notebook and created with Python utilizing the Pandas data analysis framework, NumPy for mathematical operations, and matplotlib for embedded plots. Additionally, we used the positionstack API to calculate and estimate incident-to-crime locations.
